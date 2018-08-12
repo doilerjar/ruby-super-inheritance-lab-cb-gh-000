@@ -1,8 +1,10 @@
 class Student
   
   def initialize
-end
+  end
 
   def hello
-    puts "Hey there"
+    puts "Hey there! I'm so excited to learn stuff."
+  end
+  
 end
